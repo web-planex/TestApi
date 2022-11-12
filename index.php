@@ -1,4 +1,5 @@
 <?php
+    // This is a test
     //Server url
     $url = "https://api.sightmap.com/v1/assets/1273/multifamily/units?per-page=1000";
     $apiKey = '7d64ca3869544c469c3e7a586921ba37'; // should match with Server key
